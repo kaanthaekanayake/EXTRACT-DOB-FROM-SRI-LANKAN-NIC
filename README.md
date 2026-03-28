@@ -12,7 +12,7 @@ A lightweight, zero-dependency web tool that extracts **Date of Birth** and **Ge
 
 ## 📸 Preview
 
-![NIC Extractor Preview](preview.png)
+![NIC Extractor Preview](./img.png)
 
 ---
 
